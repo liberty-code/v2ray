@@ -2,6 +2,7 @@
 233boy v2ray 安装管理脚本的一个分支。https://github.com/233boy/v2ray
 
 This fork removes the ban list of Falungong related sites are undesired by the original author. 
+
 这个分支去除了原版脚本中的一个禁止访问列表，该列表禁止用户访问某些与Falungong相关的网站，而这些网站是原脚本作者不喜欢的。
 
 # v2ray
